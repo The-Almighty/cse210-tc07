@@ -15,3 +15,8 @@ Philip Marvin
     Married to a Filipina, Oregonian, I love Smash Bros.  Dancer, surfer, and looking into crypto.
 Still waiting to be sealed, love Thai curry, and working on my Mandarin and Tagalog.  Will probably
 break something in Python, and only fix it on the 11th hour.
+
+Richard Nanney
+	Bro I'm just vibin. Player of video games and waster of time. (Technically) a convert to the church,
+served a mission in Colorado, and an almost-career-chef. I've eaten so much spicy food that it had 
+permanently damaged my digestive system and now I can't eat spicy food anymore :(
